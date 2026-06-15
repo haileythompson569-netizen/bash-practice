@@ -6,4 +6,4 @@ while [ $COUNTDOWN -gt 0 ]; do
         sleep 1
         COUNTDOWN=$((COUNTDOWN - 1))
     done
-    echo "Countdown complete!"
+    echo "Countdown complete! We did it!"
